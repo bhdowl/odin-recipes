@@ -3,11 +3,11 @@ Assignment for The Odin Project Foundations Course 'Project: Recipes'
 ## Project Overview
 In this project, I was able to create a website with multiple pages using HTML. The desired outcome: a website with one main page and 3 separate pages for simple recipes. 
 ## Skills
--build an html website from the ground up
+build an html website from the ground up
 
 create broilerplate
 
- create titles and headings
+create titles and headings
 
 create paragraphs with italics and bold
 
