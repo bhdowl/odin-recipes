@@ -1,1 +1,23 @@
-# odin-recipes
+# HTML Odin Project #1 
+Assignment for The Odin Project Foundations Course 'Project: Recipes'
+## Project Overview
+In this project, I was able to create a website with multiple pages using HTML. The desired outcome: a website with one main page and 3 separate pages for simple recipes. 
+## Skills
+-build an html website from the ground up
+
+! to create broilerplate
+
+<title> <h1> <h2> to create titles and headings
+
+<p> <em> <b> to create paragraphs with italics and bold
+
+<ul> or <ol> to create lists (unordered and ordered)
+
+<img src> to add images 
+
+git commit -m to practice commit
+
+practice embedding links
+
+## Contributing
+If you notice that I have made any mistakes please let me know! I'm open to constructive criticism and am always looking to learn.
