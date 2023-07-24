@@ -5,15 +5,15 @@ In this project, I was able to create a website with multiple pages using HTML. 
 ## Skills
 -build an html website from the ground up
 
-! to create broilerplate
+create broilerplate
 
-<title> <h1> <h2> to create titles and headings
+ create titles and headings
 
-<p> <em> <b> to create paragraphs with italics and bold
+create paragraphs with italics and bold
 
-<ul> or <ol> to create lists (unordered and ordered)
+create lists (unordered and ordered)
 
-<img src> to add images 
+add images 
 
 git commit -m to practice commit
 
